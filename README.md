@@ -123,12 +123,6 @@ $ npm start
 - 저희들의 코드컨벤션, 커밋메시지컨벤션, 1주차 1차 프로젝트를 통해 토론한 Action-Point를 정리해두었습니다.😁
 
 
-## 🔗 배포 링크
-
-[베포 링크 보러가기](http://88-1-2-assignment.s3-website.ap-northeast-2.amazonaws.com/)
-
-- 해당 프로젝트는 를 AWS S3통해 배포하였습니다.
-
 
 
 ## 📦 디렉토리 구조
